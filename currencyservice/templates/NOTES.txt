@@ -1,0 +1,1 @@
+Service {{ include "currencyservice.name" . }} has been deployed successfully!
